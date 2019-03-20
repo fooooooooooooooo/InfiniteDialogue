@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Infinite Dialogue",
+  "Author": "Foooooooooooo",
+  "Version": "0.0.1",
+  "Description": "Allows you to reset dialogue",
+  "UniqueID": "fooooooooooooooo.InfiniteDialogue",
+  "EntryDll": "InfiniteDialogue.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
